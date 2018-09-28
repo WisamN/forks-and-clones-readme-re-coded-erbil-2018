@@ -4,6 +4,7 @@
 
 1. Fork a repo
 2. Clone a repo
+3. Push it
 
 ## Forking a GitHub Repository
 
